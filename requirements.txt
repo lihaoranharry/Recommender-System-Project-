@@ -1,13 +1,4 @@
-copy
-pandas
-
-numpy
-
-random
-
-math
-Queue
-
-heapq
-pylab
-matplotlib
+copy,pandas
+,numpy
+,random
+,math,Queue,heapq,pylab,matplotlib
